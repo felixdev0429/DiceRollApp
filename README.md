@@ -10,3 +10,5 @@
 
 * Install dependencies `yarn install`
 * Run tests `yarn start`
+
+Using JSON-RPC
